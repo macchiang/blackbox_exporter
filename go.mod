@@ -9,7 +9,7 @@ require (
 	github.com/prometheus/client_golang v1.12.2
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.37.0
-	github.com/prometheus/exporter-toolkit v0.7.1
+	github.com/prometheus/exporter-toolkit v0.7.3
 	golang.org/x/net v0.0.0-20220728211354-c7608f3a8462
 	google.golang.org/grpc v1.48.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
